@@ -1,0 +1,14 @@
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\bin\Debug\net8.0\NCTR.M.A04.exe
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\bin\Debug\net8.0\NCTR.M.A04.deps.json
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\bin\Debug\net8.0\NCTR.M.A04.runtimeconfig.json
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\bin\Debug\net8.0\NCTR.M.A04.dll
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\bin\Debug\net8.0\NCTR.M.A04.pdb
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.AssemblyInfoInputs.cache
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.AssemblyInfo.cs
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.csproj.CoreCompileInputs.cache
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.dll
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\refint\NCTR.M.A04.dll
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.pdb
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\NCTR.M.A04.genruntimeconfig.cache
+D:\FPT Intern\C# Practice\Assign7\NCTR.M.A04\NCTR.M.A04\obj\Debug\net8.0\ref\NCTR.M.A04.dll
